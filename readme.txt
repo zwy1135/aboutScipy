@@ -1,27 +1,27 @@
-    ѧϰPython��ѧ��������Ĵ��룬����ת�ذɣ������ߵ�Ҫ���°�Ȩ����������
+﻿    学习Python科学计算产生的代码，算是转载吧，依作者的要求发下版权声明和链接
 
 
 
-��Ȩ����
+版权声明
 
-���������Ȩ������(HYRY Studio)���С�����ԣ�
+本书的著作权归作者(HYRY Studio)所有。你可以：
 
-    ���ء������Լ���ӡ����
-    �������ӡ�ת�ر���Ĳ��ֻ���ȫ�����ݣ����Ǳ��������Դ��ṩ���߷��ʱ��鷢����վ������
-    ����ĳ���������ʹ�ñ��������ĳ�����룬�����ɱ���ĳ�����������κ����⣬���߲��е��κ�����
+    下载、保存以及打印本书
+    网络链接、转载本书的部分或者全部内容，但是必须在明显处提供读者访问本书发布网站的链接
+    在你的程序中任意使用本书所附的程序代码，但是由本书的程序所引起的任何问题，作者不承担任何责任
 
-�㲻���ԣ�
+你不可以：
 
-    ���κ���ʽ���۱���ĵ��Ӱ���ߴ�ӡ��
-    ����ӡˢ�����汾��
-    ��ֽý����ΪĿ�ģ���д���ı��Լ�ժ�����������
-    �ڿγ���ơ���ҵ����Լ���ҵ�д��ժ���������֣���ֱ��ʹ�ñ���ĳ������
+    以任何形式出售本书的电子版或者打印版
+    擅自印刷、出版本书
+    以纸媒出版为目的，改写、改编以及摘抄本书的内容
+    在课程设计、毕业设计以及作业中大段摘抄本书文字，或直接使用本书的程序代码
 
-ʹ��˵��
+使用说明
 
-����ʹ��reStructuredText��д������Sphinx�������ڴ˻��������������۹��ܣ��������hyry.dip.jp�����߰汾�е���½ڱ���ǰ������۰�ť����ÿ���½ڽ������ۡ��Ƽ�ʹ��IE7.0���ϡ�FireFox��Google Chome��������Ķ����顣
+本书使用reStructuredText编写，采用Sphinx发布。在此基础上添加了评论功能，你可以在hyry.dip.jp的在线版本中点击章节标题前面的评论按钮，对每个章节进行评论。推荐使用IE7.0以上、FireFox、Google Chome等浏览器阅读本书。
 
-���������������ַ��
+本书有两个镜像地址：
 
-    http://hyry.dip.jp/pydoc (ÿ�ո���)
-    http://pyscin.appspot.com/html/index.html (ÿ�ܸ���)
+    http://hyry.dip.jp/pydoc (每日更新)
+    http://pyscin.appspot.com/html/index.html (每周更新)
